@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @meraalloozy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-meraalloozy/meraalloozy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<div>
+  <img src="https://images.app.goo.gl/sjKrRh34PnUVqcat5" alt="flower" width=""40">
+  </div>
+  <div>
+    <table border="1">
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>
+      <tr><td>1</td><td>2</td><td>3</td></tr>               
+    </table>
+  </div>
+  <div>
+  </div>
+</body>
+</html>
